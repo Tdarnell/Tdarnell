@@ -20,10 +20,10 @@ I specialise in building bespoke tools and processing workflows to tackle unique
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [AIrsenal](https://github.com/alan-turing-institute/AIrsenal)  
+- 🔭 I’m currently working on [Advent of code 2022](https://github.com/Tdarnell/advent-of-code-2022)  
   
 
-- 🌱 I’m currently learning C  
+- 🌱 I’m currently learning C and Julia  
   
 
 - ⚡ Fun fact: I first picked up Java programming as a child because of the game Minecraft  
