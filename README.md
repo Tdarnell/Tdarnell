@@ -14,7 +14,7 @@ When I'm not navigating the depths of the ocean (from the comfort of home), I im
 
 - **Discord Bot & Database System**
   - **Users**: 1000+ registered users
-  - **Data Points**: Tracking 6358 game items split, 13998 bonus events, 756 personal bests, and 429 ranked members (716 ex-members) since 2022. (As of Dec. 2024)
+  - **Data Points**: Tracking 17538 game items split, 18700 bonus events, 883 personal bests, 1142 new member applications and 338 ranked members (971 ex-members) since 2022. (As of Jan. 2026)
   - **Purpose**: Enhancing community engagement and simplifying administration tasks.
 
 ---
